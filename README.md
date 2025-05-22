@@ -1,7 +1,8 @@
-# Simple Login System 
+# User-Admin-Dashboard-System
 
 A clean and responsive login website built using **HTML**, **CSS**, **JavaScript**, and **Python FastAPI**.  
 This project showcases a modern layout suitable for School, University, CRM, CMS, small businesses, startups, or portfolios.
+This project features user signup, login, and JWT-based authentication. Each user has access to their own dashboard, while an admin-level user can view and manage all registered users. Ideal for learning role-based access control, authentication flows, and full-stack integration using modern web technologies. 
 
 ## Features
 
